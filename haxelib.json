@@ -7,6 +7,6 @@
     "classPath"   : "lib/Source",
     "license"     : "MIT",
     "tags"        : ["newgrounds", "ng.io", "web", "strawberryclock"],
-    "contributors": ["GeoKureli"],
+    "contributors": ["GeoKureli,RagDev"],
     "dependencies": { }
 }
